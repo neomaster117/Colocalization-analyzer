@@ -54,7 +54,7 @@ The actual images may look different, because fonts are fixed and the resolution
 <br />
 <br />
 ![plot](https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/85eb0b13-056b-4fca-9061-f0383f668845)
-
+<br />
 (the lower, 600x1000 resolution file)
 <br />
 ![plot larger](https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/44f64b90-6a0c-428a-8630-20272c36de86)
