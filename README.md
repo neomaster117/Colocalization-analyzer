@@ -8,7 +8,7 @@ The Colocalization analyzer can be run in an Rstudio GUI or off a server with th
 http://3.75.183.31:3838/data_analyzer/
 
 The application takes a single input (input.csv) file and outputs a single figure (plot.png). It contains:
-1. Upload csv data file - "Browse" button, which can be used to find the location of the file
+1. Upload csv data file - "Browse" button, which can be used to find the location of the file. For practice, an "input.csv" file is provided in the documentation.
 2. "X Axis title" and "Y Axis title" respetively, which are optional and can be left empty, or filled in to give the names of the X and Y axes
 3. "Input height (px)" and "Input weight (px)" - required fields to set the height and weight of the figure. They become activated initially by pressing the "Update plot" button, then automatically when changed. 
 4. "Update plot" button, which initializes the figure in the Shinyapp and later must be called to update height and width whenever the user changes those parameters. Note: While the GUI image will update automatically whenever new height or width data are inputed, the Update plot button must be pressed before saving for the change to take effect in the output file.
