@@ -16,12 +16,10 @@ The application takes a single input (input.csv) file and outputs a single figur
 The tpyical use is exemplified in the folowowing way:
 
 1. Initialization - the window will look like this when initialized:
-The action of every agent <br />
-  into the world <br />
-starts <br />
-  from their physical selves. <br />
+ <br />
 <img width="960" alt="initial window" src="https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/e886e002-57d5-464e-8f69-f326b5d50388">
-
-
+ <br /> 
+ <br />
+new line
 
 
