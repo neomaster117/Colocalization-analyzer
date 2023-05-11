@@ -40,12 +40,13 @@ The figure itself is visualised bellow the buttons, taking up a large window spa
 <img width="942" alt="graph generated bellow the buttons" src="https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/2524582f-13de-476c-b491-86f59c08cbf0">
 <br />
 Larger resolutions will not fit well in the GUI but can be also generated as outputs:
+<br />
 <img width="959" alt="all fields filled in for larger image" src="https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/e0474a21-54f1-4781-8461-57b7fb3119d6">
-
-<img width="959" alt="all fields filled in for larger image" src="https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/3a718418-ea1b-45ac-b83b-9de79b8d5a91">
-
-
+<br />
+<br />
+<br />
 
 The actual images may look different and the user should customize the figure by also checking the output itself. Bellow we can see two outputs created with different settings:
+
 
 
