@@ -41,7 +41,8 @@ The figure itself is visualised bellow the buttons, taking up a large window spa
 <br />
 Larger resolutions will not fit well in the GUI but can be also generated as outputs:
 <br />
-<img width="959" alt="all fields filled in for larger image" src="https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/e0474a21-54f1-4781-8461-57b7fb3119d6">
+<img width="947" alt="larger image in GUI" src="https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/c7c08026-bc9c-432e-ac4d-b1a82a1497ce">
+
 <br />
 <br />
 <br />
