@@ -62,7 +62,20 @@ Larger resolutions will not fit well in the GUI but can be also generated as out
 <br />
 <br />
 
-The actual images may look different and the user should customize the figure by also checking the output itself. Bellow we can see two outputs created with different settings:
+The actual images may look different, because fonts are fixed and the resolution alone can be modified, and the user should customize the figure by also checking the file output itself. Bellow we can see two outputs created with the settings used in the two examples above:
+
+![plot](https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/8e14a48b-89cb-413b-978c-b62c258f7437)
+<br />
+(the lower, 600x1000 resolutionfile)
+<br />
+<br />
+<br />
+![plot larger](https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/1d7625be-5771-4ef6-b475-cfe787b7eb94)
+<br />
+(the larger, 900x1200 resolution file)
+
+
+
 
 
 
