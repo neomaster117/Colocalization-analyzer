@@ -52,11 +52,11 @@ Larger resolutions will not fit well in the GUI but can be also generated as out
 <br />
 The actual images may look different, because fonts are fixed and the resolution alone can be modified, and the user should customize the figure by also checking the file output itself. Bellow we can see two outputs created with the settings used in the two examples above:
 <br />
-![plot](https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/bffd6381-1ed5-4e26-81dc-4652f067052e)
 <br />
+![plot](https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/9bee54a7-7b98-4797-977b-a79103654cd8)
 (the lower, 600x1000 resolution file)
-![plot larger](https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/63e27854-3696-4044-bf6c-4ee0f3158196)
 <br />
+![plot larger](https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/b9562e86-e77e-49d4-981a-6094d16b6525)
 (the larger, 900x1200 resolution file)
 
 If the server for some reason doesn't work it may be because of issues at my account at AWS, so feel free to write me at tanasa.sorin@gmail.com for help.
