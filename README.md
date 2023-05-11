@@ -18,7 +18,7 @@ The tpyical use is exemplified in the folowowing way:
 1. Initialization - the window will look like this when initialized:
  <br />
 <img width="960" alt="initial window" src="https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/e886e002-57d5-464e-8f69-f326b5d50388">
- $~~~$ 
- new line
+&nbsp;
+newline
 
 
