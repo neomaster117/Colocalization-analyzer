@@ -5,14 +5,13 @@ library(shinyFiles)
 
 # Define function to create ggplot
 create_plot <- function(data, x_title, y_title, height, width) {
-  ggplot(data, aes(x=TimeTreatColocRelationship, y=Percentage, fill=ColocRelationship)) +
+  ggplot(data, aes(x=Labels, y=Percentage, fill=ColocRelationship)) +
     geom_violin(lwd=1) +
-    scale_fill_manual(name="Colocalization Relationship",values=c("#778899", "#2F4F4F")) +
+    scale_fill_manual(name="Colocalization Relationship", values=c("#778899", "#2F4F4F")) +
     geom_dotplot(stroke=3, dotsize=0.5, alpha=0.8, binaxis='y', stackdir='center',
                  fill="white", position=position_dodge(1)) +
     geom_boxplot(alpha=0.7, lwd=2, width=0.05, outlier.shape = NA, notch=F, fill="black") +
     stat_summary(fun = "mean", geom = "point", color = "red", size=10) +
-    
     
     
     #Setting theme variables 
