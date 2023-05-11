@@ -41,23 +41,23 @@ The tpyical use is exemplified in the folowowing way:
 The figure itself is visualised bellow the buttons, taking up a large window space, and can be fully visualized by scrolling the window down:
 <br />
 <br />
-<img width="946" alt="graph generated bellow the buttons" src="https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/17d95e1f-7fdd-4524-8cc8-e4fda4e7609e">
+<img width="960" alt="graph generated bellow the buttons" src="https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/922e3e97-44d0-4022-8b24-3cf537dc5c52">
 <br />
 <br />
 Larger resolutions will not fit well in the GUI but can be also generated as outputs:
 <br />
 <br />
 <img width="946" alt="all fields filled in for larger image" src="https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/5117a25a-2f46-48bf-9c55-9e34f7be976b">
-<img width="960" alt="larger image in GUI" src="https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/fdeaaf83-5bb0-4b10-89b6-0c7f7e31a8af">
+<img width="945" alt="larger image in GUI" src="https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/0938988c-439a-495c-8c8b-74b25411533a">
 <br />
 <br />
 The actual images may look different, because fonts are fixed and the resolution alone can be modified, and the user should customize the figure by also checking the file output itself. Bellow we can see two outputs created with the settings used in the two examples above:
 
-![plot](https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/85eb0b13-056b-4fca-9061-f0383f668845)
+![plot](https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/ded5dcc3-cf73-4960-9cee-836cc1f63c5c)
 
 (the lower, 600x1000 resolution file)
 
-![plot larger](https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/44f64b90-6a0c-428a-8630-20272c36de86)
+![plot larger](https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/5d5bb899-ee10-4eb7-bda9-b4a58560280d)
 
 (the larger, 900x1200 resolution file)
 
