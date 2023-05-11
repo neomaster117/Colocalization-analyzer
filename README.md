@@ -71,9 +71,6 @@ The actual images may look different, because fonts are fixed and the resolution
 (the lower, 600x1000 resolutionfile)
 ![plot larger](https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/63e27854-3696-4044-bf6c-4ee0f3158196)
 <br />
-<br />
-![plot](https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/8e14a48b-89cb-413b-978c-b62c258f7437)
-<br />
 (the larger, 900x1200 resolution file)
 
 If the server for some reason doesn't work it may be because of issues at my account at AWS, so feel free to write me at tanasa.sorin@gmail.com for help.
