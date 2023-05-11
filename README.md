@@ -29,20 +29,35 @@ The tpyical use is exemplified in the folowowing way:
 <br />
 3. Detail update - plot height and width must be supplied as integer (natural) numbers. Titles for the X and Y columns are optional:
 <br />
+<br />
+<br />
 <img width="955" alt="all fields filled in" src="https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/80dad226-0a31-4c0a-992d-d82c6785b23e">
+<br />
+<br />
 <br />
 4. Generating the plot - pressing the Update plot button generates the figure:
 <br />
+<br />
+<br />
 <img width="958" alt="all fields filled and graph generated" src="https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/8ac68469-f8ac-4583-b927-3e3f5004daa2">
+<br />
+<br />
 <br />
 The figure itself is visualised bellow the buttons, taking up a large window space, and can be fully visualized by scrolling the window down:
 <br />
+<br />
+<br />
 <img width="942" alt="graph generated bellow the buttons" src="https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/2524582f-13de-476c-b491-86f59c08cbf0">
+<br />
+<br />
 <br />
 Larger resolutions will not fit well in the GUI but can be also generated as outputs:
 <br />
-<img width="947" alt="larger image in GUI" src="https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/c7c08026-bc9c-432e-ac4d-b1a82a1497ce">
+<br />
+<br />
+<img width="959" alt="all fields filled in for larger image" src="https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/55377414-ff38-4ad3-ae8e-f7a026322964">
 
+<img width="947" alt="larger image in GUI" src="https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/c7c08026-bc9c-432e-ac4d-b1a82a1497ce">
 <br />
 <br />
 <br />
