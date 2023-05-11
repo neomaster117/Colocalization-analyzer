@@ -10,7 +10,7 @@ The application takes a single input (input.csv) file and outputs a single figur
 1. Upload csv data file - Browse button, which can be used to find the location of the file
 2. X Axis title and Y Axis title respetively, which are optional and can be left empty, or filled in to give the names of the X and Y axes
 3. Input height (px) and Input weight (px) - required fields to set the height and weight of the figure. They become activated initially by pressing the "Update plot" button, then automatically when changed. 
-4. Update plot button, which initializes the figure in the Shinyapp and later must be called to update height and width whenever the user changes those parameters
+4. Update plot button, which initializes the figure in the Shinyapp and later must be called to update height and width whenever the user changes those parameters. Note: While the GUI image will update automatically whenever new height or width data are inputed, the Update plot button must be pressed before saving for the change to take effect in the output file.
 5. Download plot button - in the offline version it can be used to set a download location and save simultaneously, while in the server version it automatically downloads the plot.png file to the default Download folder.
 
 The tpyical use is exemplified in the folowowing way:
@@ -39,7 +39,8 @@ The tpyical use is exemplified in the folowowing way:
 <br />
 <br />
 <br />
-<img width="958" alt="all fields filled and graph generated" src="https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/8ac68469-f8ac-4583-b927-3e3f5004daa2">
+<img width="944" alt="all fields filled and graph generated" src="https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/1cd76ba7-8ac8-4137-9282-517b13f912ad">
+
 <br />
 <br />
 <br />
@@ -47,7 +48,8 @@ The figure itself is visualised bellow the buttons, taking up a large window spa
 <br />
 <br />
 <br />
-<img width="942" alt="graph generated bellow the buttons" src="https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/2524582f-13de-476c-b491-86f59c08cbf0">
+<img width="946" alt="graph generated bellow the buttons" src="https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/17d95e1f-7fdd-4524-8cc8-e4fda4e7609e">
+
 <br />
 <br />
 <br />
@@ -55,24 +57,26 @@ Larger resolutions will not fit well in the GUI but can be also generated as out
 <br />
 <br />
 <br />
-<img width="959" alt="all fields filled in for larger image" src="https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/55377414-ff38-4ad3-ae8e-f7a026322964">
+<img width="946" alt="all fields filled in for larger image" src="https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/5117a25a-2f46-48bf-9c55-9e34f7be976b">
+<img width="960" alt="larger image in GUI" src="https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/fdeaaf83-5bb0-4b10-89b6-0c7f7e31a8af">
 
-<img width="947" alt="larger image in GUI" src="https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/c7c08026-bc9c-432e-ac4d-b1a82a1497ce">
 <br />
 <br />
 <br />
 
 The actual images may look different, because fonts are fixed and the resolution alone can be modified, and the user should customize the figure by also checking the file output itself. Bellow we can see two outputs created with the settings used in the two examples above:
-
-![plot](https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/8e14a48b-89cb-413b-978c-b62c258f7437)
+<br />
+![plot](https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/bffd6381-1ed5-4e26-81dc-4652f067052e)
 <br />
 (the lower, 600x1000 resolutionfile)
+![plot larger](https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/63e27854-3696-4044-bf6c-4ee0f3158196)
 <br />
 <br />
-<br />
-![plot larger](https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/1d7625be-5771-4ef6-b475-cfe787b7eb94)
+![plot](https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/8e14a48b-89cb-413b-978c-b62c258f7437)
 <br />
 (the larger, 900x1200 resolution file)
+
+If the server for some reason doesn't work it may be because of issues at my account at AWS, so feel free to write me at tanasa.sorin@gmail.com for help.
 
 
 
