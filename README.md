@@ -25,42 +25,46 @@ The tpyical use is exemplified in the folowowing way:
 2. File selection:
 <br />
 
-<img width="959" alt="file uploaded" src="https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/4c96a549-ee0d-45cf-a267-c9b7812de1cd">
-
+<img width="959" alt="file uploaded" src="https://github.com/sorin-tanasa/Colocalization-analyzer/assets/47111504/a786dc77-621b-4ebe-8d7c-4cc2a68afbe8">
 <br />
 <br />
 3. Detail update - plot height and width must be supplied as integer (natural) numbers. Titles for the X and Y columns are optional:
 <br />
 <br />
-<img width="955" alt="all fields filled in" src="https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/80dad226-0a31-4c0a-992d-d82c6785b23e">
+<img width="955" alt="all fields filled in" src="https://github.com/sorin-tanasa/Colocalization-analyzer/assets/47111504/c4dd1ead-97b7-46b1-98fe-de08ef4ef949">
+
 <br />
 <br />
 4. Generating the plot - pressing the Update plot button generates the figure:
 <br />
 <br />
-<img width="944" alt="all fields filled and graph generated" src="https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/1cd76ba7-8ac8-4137-9282-517b13f912ad">
+<img width="944" alt="all fields filled and graph generated" src="https://github.com/sorin-tanasa/Colocalization-analyzer/assets/47111504/0f2bfd87-22dd-43bd-a1d7-11c292967a0c">
+
 <br />
 <br />
 The figure itself is visualised bellow the buttons, taking up a large window space, and can be fully visualized by scrolling the window down:
 <br />
 <br />
-<img width="960" alt="graph generated bellow the buttons" src="https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/922e3e97-44d0-4022-8b24-3cf537dc5c52">
+<img width="960" alt="graph generated bellow the buttons" src="https://github.com/sorin-tanasa/Colocalization-analyzer/assets/47111504/ccfa4bcf-3bb4-4ead-be54-15ba0dfd80bb">
+
 <br />
 <br />
 Larger resolutions will not fit well in the GUI but can be also generated as outputs:
 <br />
 <br />
-<img width="946" alt="all fields filled in for larger image" src="https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/5117a25a-2f46-48bf-9c55-9e34f7be976b">
-<img width="945" alt="larger image in GUI" src="https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/0938988c-439a-495c-8c8b-74b25411533a">
+<img width="946" alt="all fields filled in for larger image" src="https://github.com/sorin-tanasa/Colocalization-analyzer/assets/47111504/bfabec4e-051e-4eff-a06e-8e846fb5dcbd">
+<img width="945" alt="larger image in GUI" src="https://github.com/sorin-tanasa/Colocalization-analyzer/assets/47111504/d4b1d8cb-0bba-4706-8784-abc728affc24">
+
+
 <br />
 <br />
 The actual images may look different, because fonts are fixed and the resolution alone can be modified, and the user should customize the figure by also checking the file output itself. Bellow we can see two outputs created with the settings used in the two examples above:
 
-![plot](https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/ded5dcc3-cf73-4960-9cee-836cc1f63c5c)
+![plot](https://github.com/sorin-tanasa/Colocalization-analyzer/assets/47111504/a10a153c-de8f-4882-9cec-e6aee069638b)
 
 (the lower, 600x1000 resolution file)
 
-![plot larger](https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/5d5bb899-ee10-4eb7-bda9-b4a58560280d)
+![plot larger](https://github.com/sorin-tanasa/Colocalization-analyzer/assets/47111504/10322735-0461-424d-a847-333d467d7a9b)
 
 (the larger, 900x1200 resolution file)
 
