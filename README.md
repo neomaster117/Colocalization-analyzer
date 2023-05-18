@@ -24,7 +24,9 @@ The tpyical use is exemplified in the folowowing way:
 <br />
 2. File selection:
 <br />
+
 <img width="959" alt="file uploaded" src="https://github.com/neomaster117/Colocalization-analyzer/assets/47111504/4c96a549-ee0d-45cf-a267-c9b7812de1cd">
+
 <br />
 <br />
 3. Detail update - plot height and width must be supplied as integer (natural) numbers. Titles for the X and Y columns are optional:
